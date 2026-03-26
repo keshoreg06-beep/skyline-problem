@@ -47,6 +47,16 @@
 *.cmd
 .tmp_versions/
 modules.order
+
+# Compiled binaries
+skyline
+skyline.exe
+*.o
+*.out
+
+# OS files
+.DS_Store
+Thumbs.db
 Module.symvers
 Mkfile.old
 dkms.conf
